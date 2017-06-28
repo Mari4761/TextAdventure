@@ -1,4 +1,4 @@
-print("Welcome to the ... Game, to continue at anytime, press the space bar")
+print("Welcome to the Vagina Power Game, to continue at anytime, press the space bar")
 
 user = input(" ")
 
